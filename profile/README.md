@@ -1,4 +1,4 @@
-![Логотип проекта Aboutify ](logo.png)
+![Логотип проекта Aboutify ](https://raw.githubusercontent.com/about-ify/.github/main/profile/logo.png)
 
 **Добро пожаловать на страницу проекта Aboutify на GitHub!**
 
