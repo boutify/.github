@@ -6,4 +6,4 @@
 
 **Aboutify** — сервис позволяющий в удобном формате создать страничку-визитку пользователя с контактной и  открытой личной информацией.
 
-[VK](https://vk.com/aboutify) • [Telegram](https://t.me/about1fy) • [Дисскуссии](https://github.com/orgs/about-ify/discussions)
+[VK](https://vk.com/boutify) • [Telegram](https://t.me/boutify) • [Дисскуссии](https://github.com/orgs/boutify/discussions)
