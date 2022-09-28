@@ -2,7 +2,7 @@
 >
 > Всем мира 🙌
 
-![Aboutify](cover.png)
+![Aboutify](https://raw.githubusercontent.com/boutify/.github/main/profile/cover.png)
 
 Привет 👋 Добро пожаловать в самое сердце проекта Aboutify!
 
